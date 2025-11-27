@@ -42,8 +42,8 @@
 			</IPropertyContainer>
 			</_properties>
 			<_name type="a">ProteccionDatos</_name>
-			<_modifiedTimeWeak type="a">6.15.2021::5:13:26</_modifiedTimeWeak>
-			<_modifiedTime type="a">6.15.2021::5:13:26</_modifiedTime>
+			<_modifiedTimeWeak type="a">6.15.2021::6:43:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.15.2021::6:43:10</_modifiedTime>
 			<_lastID type="a">3</_lastID>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
@@ -348,8 +348,8 @@
 			</_properties>
 			<_name type="a">EstructuraDelProyecto</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">6.15.2021::5:13:46</_modifiedTime>
-			<_lastModifiedTime type="a">6.15.2021::5:13:46</_lastModifiedTime>
+			<_modifiedTime type="a">6.15.2021::6:43:10</_modifiedTime>
+			<_lastModifiedTime type="a">6.15.2021::6:43:10</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -411,8 +411,8 @@
 				<value>GUID 4aab30a6-d097-437e-8295-e947d1756601</value>
 				<value>GUID 1cc2b177-e559-46e1-bc6a-64e0b802fb01</value>
 				<value>GUID 52c91482-4fd3-4d4b-82dc-a1b75fc06029</value>
-				<value>GUID d437f2b3-d456-42d8-8637-1b163d2bdd39</value>
-				<value>GUID 3054aa79-3133-4f45-b83a-6363bf5127d1</value>
+				<value>GUID 29d656cf-9ba0-436b-80de-99cf59de6065</value>
+				<value>GUID ba6d4cbd-6796-4580-bdbd-4b22e172d443</value>
 			</AggregatesList>
 		</CGIClassChart>
 		<CGIClass type="e">
@@ -526,7 +526,7 @@
 					<_hm2Class type="a">OMGEElement</_hm2Class>
 					<_hsubsystem type="a">EstructuraDelProyecto</_hsubsystem>
 					<_hname type="a">CGIImageData</_hname>
-					<_hid type="a">GUID d437f2b3-d456-42d8-8637-1b163d2bdd39</_hid>
+					<_hid type="a">GUID 29d656cf-9ba0-436b-80de-99cf59de6065</_hid>
 				</IHandle>
 			</m_pImageViewData>
 			<m_polygon type="a">4 0 0  0 1151  1216 1151  1216 0  </m_polygon>
@@ -585,7 +585,7 @@
 					<_hm2Class type="a">OMGEElement</_hm2Class>
 					<_hsubsystem type="a">EstructuraDelProyecto</_hsubsystem>
 					<_hname type="a">CGIImageData</_hname>
-					<_hid type="a">GUID 3054aa79-3133-4f45-b83a-6363bf5127d1</_hid>
+					<_hid type="a">GUID ba6d4cbd-6796-4580-bdbd-4b22e172d443</_hid>
 				</IHandle>
 			</m_pImageViewData>
 			<m_polygon type="a">4 0 0  0 1151  1216 1151  1216 0  </m_polygon>
@@ -644,7 +644,7 @@
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
 		</CGIPackage>
 		<CGIImageData type="e">
-			<_id type="a">GUID d437f2b3-d456-42d8-8637-1b163d2bdd39</_id>
+			<_id type="a">GUID 29d656cf-9ba0-436b-80de-99cf59de6065</_id>
 			<m_type type="a">0</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -675,7 +675,7 @@
 			<m_fileModifiedTime type="a">11.21.2025::1:10:9</m_fileModifiedTime>
 		</CGIImageData>
 		<CGIImageData type="e">
-			<_id type="a">GUID 3054aa79-3133-4f45-b83a-6363bf5127d1</_id>
+			<_id type="a">GUID ba6d4cbd-6796-4580-bdbd-4b22e172d443</_id>
 			<m_type type="a">0</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
